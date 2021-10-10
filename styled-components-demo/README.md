@@ -5,6 +5,11 @@ react + typescript + styled components
 
 ![jongah com](https://user-images.githubusercontent.com/81145387/136683126-a19cfc79-e2e7-41f3-a3f9-9360bfcb7439.gif)
 
+> npx create-react-app styled-components-demo --template typescript     
+> npm install --save styled-components   
+> npm install @types/styled-components --save-dev   
+> npm install --save @types/react @types/react-dom   
+
 <br>
 
 ### 참고자료
