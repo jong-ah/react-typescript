@@ -15,3 +15,5 @@ react + typescript + styled components
 ### 참고자료
 
 - [dthlabs - Styled components in React JS with TypeScript](https://youtu.be/yb4sYus8_V0)
+- [create-react-app 공식문서](https://create-react-app.dev/docs/adding-typescript/)
+- [styled-components 공식문서](https://styled-components.com/docs/api#typescript)
